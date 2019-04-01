@@ -59,14 +59,15 @@ server {
 `sudo service nginx reload`
 
 ## Screenshots
+- Themed index
+    ![Themed index](static/2019-04-01_15-18-43-Window.png)
+- Themed 404
+    ![Stock 404](static/2019-04-01_15-20-16-Window.png)
+- Stock index
+    ![Stock index](static/2019-04-01_15-13-14-Window.png)
+- Stock 404
+    ![Stock 404](static/2019-04-01_15-19-47-Window.png)
 
-%screenshotplaceholder%
-
-## Page Codes
-- [Stock index](#)
-- [Stock 404](#)
-- [Themed index](#)
-- [Themed 404](#)
 
 ## Credits
 Vladimir [nett00n](https://github.com/nett00n) Budylnikov
